@@ -45,7 +45,7 @@
       "Download": "https://raw.github.com/finndev/PokeBuddy/master/Dependencies/System.Windows.Interactivity.dll"
     },
     "Dependencies.json": {
-      "MD5": "073cccbbdd717567bebf230184fa4384",
+      "MD5": "09ed352f29c362768b47b13bc9d68560",
       "Download": "https://raw.github.com/finndev/PokeBuddy/master/Dependencies.json"
     },
     "Niantic\\AC-Checksum.txt": {
@@ -63,7 +63,7 @@
   },
   "Patches": {},
   "Loader": {
-    "MD5": "08e5001e1b3e5a1964416664299ef459",
+    "MD5": "1cd7fafc84ba335e349283b5d41ff7f4",
     "Download": "https://raw.github.com/finndev/PokeBuddy/master/Loader/PokeBuddy.exe"
   }
 }
