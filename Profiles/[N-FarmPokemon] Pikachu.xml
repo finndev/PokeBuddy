@@ -1,0 +1,24 @@
+<PBProfile>
+	<Name>[FarmPokemon] Pikachu</Name>
+	
+	<AvoidPokemon>
+		<Pokemon Id="104" />
+		<Pokemon Id="102" />
+	</AvoidPokemon>
+	
+	<ProfileOrder>
+		<RunCode>
+			Debug.Write("hello world");
+		</RunCode>
+		
+		<While Condition="Niantic.Inventory.FreeSlots == 0">
+			<Wait Time="1000" />
+		</While>
+		
+		<HuntingGrounds>
+			<Hotspot Latitude="" Longitude="" />
+			<Hotspot Latitude="" Longitude="" />
+			<Hotspot Latitude="" Longitude="" />
+		</HuntingGrounds>
+	</ProfileOrder>
+</PBProfile>
