@@ -1,0 +1,69 @@
+{
+  "StaticFiles": {
+    "Dependencies.json": {
+      "MD5": "c680b83092282c85aa71585d531eb7ab",
+      "Download": "https://raw.github.com/finndev/PokeBuddy/master/Dependencies.json"
+    },
+    "Core\\PokeBuddy.Core.dll": {
+      "MD5": "19d8ca28d61c12744aa22e7238aacfaf",
+      "Download": "https://raw.github.com/finndev/PokeBuddy/master/Core/PokeBuddy.Core.dll"
+    },
+    "Dependencies\\C5.dll": {
+      "MD5": "0aa0efdd994d8f3db01534ec902294ed",
+      "Download": "https://raw.github.com/finndev/PokeBuddy/master/Dependencies/C5.dll"
+    },
+    "Dependencies\\GMap.NET.Core.dll": {
+      "MD5": "5166a516253f5804192613d84e2fdb4b",
+      "Download": "https://raw.github.com/finndev/PokeBuddy/master/Dependencies/GMap.NET.Core.dll"
+    },
+    "Dependencies\\GMap.NET.WindowsPresentation.dll": {
+      "MD5": "4590099ca7021cb22a4c9013eb38dc38",
+      "Download": "https://raw.github.com/finndev/PokeBuddy/master/Dependencies/GMap.NET.WindowsPresentation.dll"
+    },
+    "Dependencies\\Google.Protobuf.dll": {
+      "MD5": "73c372cb61fe59d58dee8df27640ba9b",
+      "Download": "https://raw.github.com/finndev/PokeBuddy/master/Dependencies/Google.Protobuf.dll"
+    },
+    "Dependencies\\Newtonsoft.Json.dll": {
+      "MD5": "c53737821b861d454d5248034c3c097c",
+      "Download": "https://raw.github.com/finndev/PokeBuddy/master/Dependencies/Newtonsoft.Json.dll"
+    },
+    "Dependencies\\S2Geometry.dll": {
+      "MD5": "cdbfe88c8c0a6f86a08cf64adb7eb220",
+      "Download": "https://raw.github.com/finndev/PokeBuddy/master/Dependencies/S2Geometry.dll"
+    },
+    "Dependencies\\System.Data.SQLite.dll": {
+      "MD5": "47670b50bebb15c353668a7e93305c20",
+      "Download": "https://raw.github.com/finndev/PokeBuddy/master/Dependencies/System.Data.SQLite.dll"
+    },
+    "Dependencies\\System.Net.Http.Formatting.dll": {
+      "MD5": "589e1b764c0dc53bf645054960626ab1",
+      "Download": "https://raw.github.com/finndev/PokeBuddy/master/Dependencies/System.Net.Http.Formatting.dll"
+    },
+    "Dependencies\\System.VarintBitConverter.dll": {
+      "MD5": "a3bb61272283ce2612344c54e3c16ab9",
+      "Download": "https://raw.github.com/finndev/PokeBuddy/master/Dependencies/System.VarintBitConverter.dll"
+    },
+    "Dependencies\\System.Windows.Interactivity.dll": {
+      "MD5": "580244bc805220253a87196913eb3e5e",
+      "Download": "https://raw.github.com/finndev/PokeBuddy/master/Dependencies/System.Windows.Interactivity.dll"
+    },
+    "Niantic\\AC-Checksum.txt": {
+      "MD5": "ce8b6655bbf2eb14623952b968018a41",
+      "Download": "https://raw.github.com/finndev/PokeBuddy/master/Niantic/AC-Checksum.txt"
+    },
+    "PokeBuddy.exe.config": {
+      "MD5": "149eeb2a8876978cb40893f47d0828c2",
+      "Download": "https://raw.github.com/finndev/PokeBuddy/master/PokeBuddy.exe.config"
+    },
+    "settings.json": {
+      "MD5": "6083d4f8dc73f50d478d3473b234a03d",
+      "Download": "https://raw.github.com/finndev/PokeBuddy/master/settings.json"
+    }
+  },
+  "Patches": {},
+  "Loader": {
+    "MD5": "804bab6b37c646a50d273978335d9536",
+    "Download": "https://raw.github.com/finndev/PokeBuddy/master/Loader/PokeBuddy.exe"
+  }
+}
