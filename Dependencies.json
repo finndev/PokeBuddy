@@ -59,6 +59,10 @@
     "settings.json": {
       "MD5": "6083d4f8dc73f50d478d3473b234a03d",
       "Download": "https://raw.github.com/finndev/PokeBuddy/master/settings.json"
+    },
+	"Dependencies\\CommandLine.dll": {
+      "MD5": "ec0e2dd54144d6f6a317b7daa715d418",
+      "Download": "https://raw.github.com/finndev/PokeBuddy/master/Dependencies/CommandLine.dll"
     }
   },
   "Patches": {},
