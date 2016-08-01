@@ -1,28 +1,1365 @@
 {
-	"_rpcUsername": "",
-	"_rpcPassword": "",
-	"_gpsLatitude": "53.5510850",
-	"_gpsLongitude": "9.9936820",
-	"_farmPokeStops": true,
-	"_catchPokemons": true,
-	"_evolveEggs": false,
-	"_throwAwayBadPokemons": true,
-	"_teleportMovement": false,
-	"_metersPerSecond": 35.0,
-	"_useBerries": true,
-	"_berryProbability": "0.40",
-	"_googleAccessToken": "",
-	"RpcUsername": "",
-	"RpcPassword": "",
-	"GpsLatitude": "53.5510850",
-	"GpsLongitude": "9.9936820",
-	"FarmPokeStops": true,
-	"CatchPokemons": true,
-	"EvolveEggs": false,
-	"ThrowAwayBadPokemons": true,
-	"TeleportMovement": false,
-	"MetersPerSecond": 35.0,
-	"UseBerries": true,
-	"BerryProbability": "0.40",
-	"GoogleAccessToken": ""
+  "SettingsVersion": "0.0.0.1",
+  "RpcUsername": "",
+  "RpcPassword": "",
+  "GpsLatitude": "40.785091",
+  "GpsLongitude": "-73.968285",
+  "GpsAltitude": "10",
+  "FarmPokeStops": true,
+  "CatchPokemons": true,
+  "EvolveEggs": false,
+  "ThrowAwayBadPokemons": true,
+  "TeleportMovement": false,
+  "MetersPerSecond": 40.0,
+  "UseBerries": true,
+  "BerryProbability": "0.40",
+  "GoogleAccessToken": "",
+  "EvolvePokemons": false,
+  "UseLuckyEgg": false,
+  "LuckyEggMinPokemon": 0,
+  "RecycleItems": false,
+  "IsGoogleAccount": false,
+  "PokemonsToEvolve": [
+    {
+      "Checked": true,
+      "Pokemon": 10
+    },
+    {
+      "Checked": true,
+      "Pokemon": 16
+    },
+    {
+      "Checked": true,
+      "Pokemon": 19
+    },
+    {
+      "Checked": false,
+      "Pokemon": 63
+    },
+    {
+      "Checked": false,
+      "Pokemon": 142
+    },
+    {
+      "Checked": false,
+      "Pokemon": 65
+    },
+    {
+      "Checked": false,
+      "Pokemon": 24
+    },
+    {
+      "Checked": false,
+      "Pokemon": 59
+    },
+    {
+      "Checked": false,
+      "Pokemon": 144
+    },
+    {
+      "Checked": false,
+      "Pokemon": 15
+    },
+    {
+      "Checked": false,
+      "Pokemon": 69
+    },
+    {
+      "Checked": false,
+      "Pokemon": 9
+    },
+    {
+      "Checked": false,
+      "Pokemon": 1
+    },
+    {
+      "Checked": false,
+      "Pokemon": 12
+    },
+    {
+      "Checked": false,
+      "Pokemon": 113
+    },
+    {
+      "Checked": false,
+      "Pokemon": 6
+    },
+    {
+      "Checked": false,
+      "Pokemon": 4
+    },
+    {
+      "Checked": false,
+      "Pokemon": 5
+    },
+    {
+      "Checked": false,
+      "Pokemon": 36
+    },
+    {
+      "Checked": false,
+      "Pokemon": 35
+    },
+    {
+      "Checked": false,
+      "Pokemon": 91
+    },
+    {
+      "Checked": false,
+      "Pokemon": 104
+    },
+    {
+      "Checked": false,
+      "Pokemon": 87
+    },
+    {
+      "Checked": false,
+      "Pokemon": 50
+    },
+    {
+      "Checked": false,
+      "Pokemon": 132
+    },
+    {
+      "Checked": false,
+      "Pokemon": 85
+    },
+    {
+      "Checked": false,
+      "Pokemon": 84
+    },
+    {
+      "Checked": false,
+      "Pokemon": 148
+    },
+    {
+      "Checked": false,
+      "Pokemon": 149
+    },
+    {
+      "Checked": false,
+      "Pokemon": 147
+    },
+    {
+      "Checked": false,
+      "Pokemon": 96
+    },
+    {
+      "Checked": false,
+      "Pokemon": 51
+    },
+    {
+      "Checked": false,
+      "Pokemon": 133
+    },
+    {
+      "Checked": false,
+      "Pokemon": 23
+    },
+    {
+      "Checked": false,
+      "Pokemon": 125
+    },
+    {
+      "Checked": false,
+      "Pokemon": 101
+    },
+    {
+      "Checked": false,
+      "Pokemon": 102
+    },
+    {
+      "Checked": false,
+      "Pokemon": 103
+    },
+    {
+      "Checked": false,
+      "Pokemon": 83
+    },
+    {
+      "Checked": false,
+      "Pokemon": 22
+    },
+    {
+      "Checked": false,
+      "Pokemon": 136
+    },
+    {
+      "Checked": false,
+      "Pokemon": 92
+    },
+    {
+      "Checked": false,
+      "Pokemon": 94
+    },
+    {
+      "Checked": false,
+      "Pokemon": 74
+    },
+    {
+      "Checked": false,
+      "Pokemon": 44
+    },
+    {
+      "Checked": false,
+      "Pokemon": 42
+    },
+    {
+      "Checked": false,
+      "Pokemon": 118
+    },
+    {
+      "Checked": false,
+      "Pokemon": 55
+    },
+    {
+      "Checked": false,
+      "Pokemon": 76
+    },
+    {
+      "Checked": false,
+      "Pokemon": 75
+    },
+    {
+      "Checked": false,
+      "Pokemon": 88
+    },
+    {
+      "Checked": false,
+      "Pokemon": 58
+    },
+    {
+      "Checked": false,
+      "Pokemon": 130
+    },
+    {
+      "Checked": false,
+      "Pokemon": 93
+    },
+    {
+      "Checked": false,
+      "Pokemon": 107
+    },
+    {
+      "Checked": false,
+      "Pokemon": 106
+    },
+    {
+      "Checked": false,
+      "Pokemon": 116
+    },
+    {
+      "Checked": false,
+      "Pokemon": 97
+    },
+    {
+      "Checked": false,
+      "Pokemon": 2
+    },
+    {
+      "Checked": false,
+      "Pokemon": 39
+    },
+    {
+      "Checked": false,
+      "Pokemon": 135
+    },
+    {
+      "Checked": false,
+      "Pokemon": 124
+    },
+    {
+      "Checked": false,
+      "Pokemon": 140
+    },
+    {
+      "Checked": false,
+      "Pokemon": 141
+    },
+    {
+      "Checked": false,
+      "Pokemon": 64
+    },
+    {
+      "Checked": false,
+      "Pokemon": 14
+    },
+    {
+      "Checked": false,
+      "Pokemon": 115
+    },
+    {
+      "Checked": false,
+      "Pokemon": 99
+    },
+    {
+      "Checked": false,
+      "Pokemon": 109
+    },
+    {
+      "Checked": false,
+      "Pokemon": 98
+    },
+    {
+      "Checked": false,
+      "Pokemon": 131
+    },
+    {
+      "Checked": false,
+      "Pokemon": 108
+    },
+    {
+      "Checked": false,
+      "Pokemon": 68
+    },
+    {
+      "Checked": false,
+      "Pokemon": 67
+    },
+    {
+      "Checked": false,
+      "Pokemon": 66
+    },
+    {
+      "Checked": false,
+      "Pokemon": 129
+    },
+    {
+      "Checked": false,
+      "Pokemon": 126
+    },
+    {
+      "Checked": false,
+      "Pokemon": 81
+    },
+    {
+      "Checked": false,
+      "Pokemon": 82
+    },
+    {
+      "Checked": false,
+      "Pokemon": 56
+    },
+    {
+      "Checked": false,
+      "Pokemon": 105
+    },
+    {
+      "Checked": false,
+      "Pokemon": 52
+    },
+    {
+      "Checked": false,
+      "Pokemon": 11
+    },
+    {
+      "Checked": false,
+      "Pokemon": 151
+    },
+    {
+      "Checked": false,
+      "Pokemon": 150
+    },
+    {
+      "Checked": false,
+      "Pokemon": 0
+    },
+    {
+      "Checked": false,
+      "Pokemon": 146
+    },
+    {
+      "Checked": false,
+      "Pokemon": 122
+    },
+    {
+      "Checked": false,
+      "Pokemon": 89
+    },
+    {
+      "Checked": false,
+      "Pokemon": 34
+    },
+    {
+      "Checked": false,
+      "Pokemon": 31
+    },
+    {
+      "Checked": false,
+      "Pokemon": 29
+    },
+    {
+      "Checked": false,
+      "Pokemon": 32
+    },
+    {
+      "Checked": false,
+      "Pokemon": 30
+    },
+    {
+      "Checked": false,
+      "Pokemon": 33
+    },
+    {
+      "Checked": false,
+      "Pokemon": 38
+    },
+    {
+      "Checked": false,
+      "Pokemon": 43
+    },
+    {
+      "Checked": false,
+      "Pokemon": 138
+    },
+    {
+      "Checked": false,
+      "Pokemon": 139
+    },
+    {
+      "Checked": false,
+      "Pokemon": 95
+    },
+    {
+      "Checked": false,
+      "Pokemon": 46
+    },
+    {
+      "Checked": false,
+      "Pokemon": 47
+    },
+    {
+      "Checked": false,
+      "Pokemon": 53
+    },
+    {
+      "Checked": false,
+      "Pokemon": 18
+    },
+    {
+      "Checked": false,
+      "Pokemon": 17
+    },
+    {
+      "Checked": false,
+      "Pokemon": 25
+    },
+    {
+      "Checked": false,
+      "Pokemon": 127
+    },
+    {
+      "Checked": false,
+      "Pokemon": 60
+    },
+    {
+      "Checked": false,
+      "Pokemon": 61
+    },
+    {
+      "Checked": false,
+      "Pokemon": 62
+    },
+    {
+      "Checked": false,
+      "Pokemon": 77
+    },
+    {
+      "Checked": false,
+      "Pokemon": 137
+    },
+    {
+      "Checked": false,
+      "Pokemon": 57
+    },
+    {
+      "Checked": false,
+      "Pokemon": 54
+    },
+    {
+      "Checked": false,
+      "Pokemon": 26
+    },
+    {
+      "Checked": false,
+      "Pokemon": 78
+    },
+    {
+      "Checked": false,
+      "Pokemon": 20
+    },
+    {
+      "Checked": false,
+      "Pokemon": 112
+    },
+    {
+      "Checked": false,
+      "Pokemon": 111
+    },
+    {
+      "Checked": false,
+      "Pokemon": 27
+    },
+    {
+      "Checked": false,
+      "Pokemon": 28
+    },
+    {
+      "Checked": false,
+      "Pokemon": 123
+    },
+    {
+      "Checked": false,
+      "Pokemon": 117
+    },
+    {
+      "Checked": false,
+      "Pokemon": 119
+    },
+    {
+      "Checked": false,
+      "Pokemon": 86
+    },
+    {
+      "Checked": false,
+      "Pokemon": 90
+    },
+    {
+      "Checked": false,
+      "Pokemon": 80
+    },
+    {
+      "Checked": false,
+      "Pokemon": 79
+    },
+    {
+      "Checked": false,
+      "Pokemon": 143
+    },
+    {
+      "Checked": false,
+      "Pokemon": 21
+    },
+    {
+      "Checked": false,
+      "Pokemon": 7
+    },
+    {
+      "Checked": false,
+      "Pokemon": 121
+    },
+    {
+      "Checked": false,
+      "Pokemon": 120
+    },
+    {
+      "Checked": false,
+      "Pokemon": 114
+    },
+    {
+      "Checked": false,
+      "Pokemon": 128
+    },
+    {
+      "Checked": false,
+      "Pokemon": 72
+    },
+    {
+      "Checked": false,
+      "Pokemon": 73
+    },
+    {
+      "Checked": false,
+      "Pokemon": 134
+    },
+    {
+      "Checked": false,
+      "Pokemon": 49
+    },
+    {
+      "Checked": false,
+      "Pokemon": 48
+    },
+    {
+      "Checked": false,
+      "Pokemon": 3
+    },
+    {
+      "Checked": false,
+      "Pokemon": 71
+    },
+    {
+      "Checked": false,
+      "Pokemon": 45
+    },
+    {
+      "Checked": false,
+      "Pokemon": 100
+    },
+    {
+      "Checked": false,
+      "Pokemon": 37
+    },
+    {
+      "Checked": false,
+      "Pokemon": 8
+    },
+    {
+      "Checked": false,
+      "Pokemon": 13
+    },
+    {
+      "Checked": false,
+      "Pokemon": 70
+    },
+    {
+      "Checked": false,
+      "Pokemon": 110
+    },
+    {
+      "Checked": false,
+      "Pokemon": 40
+    },
+    {
+      "Checked": false,
+      "Pokemon": 145
+    },
+    {
+      "Checked": false,
+      "Pokemon": 41
+    }
+  ],
+  "PokemonNotToTransfer": [
+    {
+      "Checked": true,
+      "Pokemon": 59
+    },
+    {
+      "Checked": true,
+      "Pokemon": 144
+    },
+    {
+      "Checked": true,
+      "Pokemon": 9
+    },
+    {
+      "Checked": true,
+      "Pokemon": 10
+    },
+    {
+      "Checked": true,
+      "Pokemon": 113
+    },
+    {
+      "Checked": true,
+      "Pokemon": 6
+    },
+    {
+      "Checked": true,
+      "Pokemon": 36
+    },
+    {
+      "Checked": true,
+      "Pokemon": 132
+    },
+    {
+      "Checked": true,
+      "Pokemon": 149
+    },
+    {
+      "Checked": true,
+      "Pokemon": 103
+    },
+    {
+      "Checked": true,
+      "Pokemon": 76
+    },
+    {
+      "Checked": true,
+      "Pokemon": 130
+    },
+    {
+      "Checked": true,
+      "Pokemon": 108
+    },
+    {
+      "Checked": true,
+      "Pokemon": 68
+    },
+    {
+      "Checked": true,
+      "Pokemon": 151
+    },
+    {
+      "Checked": true,
+      "Pokemon": 150
+    },
+    {
+      "Checked": true,
+      "Pokemon": 146
+    },
+    {
+      "Checked": true,
+      "Pokemon": 89
+    },
+    {
+      "Checked": true,
+      "Pokemon": 34
+    },
+    {
+      "Checked": true,
+      "Pokemon": 31
+    },
+    {
+      "Checked": true,
+      "Pokemon": 16
+    },
+    {
+      "Checked": true,
+      "Pokemon": 62
+    },
+    {
+      "Checked": true,
+      "Pokemon": 19
+    },
+    {
+      "Checked": true,
+      "Pokemon": 80
+    },
+    {
+      "Checked": true,
+      "Pokemon": 143
+    },
+    {
+      "Checked": true,
+      "Pokemon": 3
+    },
+    {
+      "Checked": true,
+      "Pokemon": 71
+    },
+    {
+      "Checked": true,
+      "Pokemon": 45
+    },
+    {
+      "Checked": true,
+      "Pokemon": 13
+    },
+    {
+      "Checked": true,
+      "Pokemon": 145
+    },
+    {
+      "Checked": false,
+      "Pokemon": 63
+    },
+    {
+      "Checked": false,
+      "Pokemon": 142
+    },
+    {
+      "Checked": false,
+      "Pokemon": 65
+    },
+    {
+      "Checked": false,
+      "Pokemon": 24
+    },
+    {
+      "Checked": false,
+      "Pokemon": 15
+    },
+    {
+      "Checked": false,
+      "Pokemon": 69
+    },
+    {
+      "Checked": false,
+      "Pokemon": 1
+    },
+    {
+      "Checked": false,
+      "Pokemon": 12
+    },
+    {
+      "Checked": false,
+      "Pokemon": 4
+    },
+    {
+      "Checked": false,
+      "Pokemon": 5
+    },
+    {
+      "Checked": false,
+      "Pokemon": 35
+    },
+    {
+      "Checked": false,
+      "Pokemon": 91
+    },
+    {
+      "Checked": false,
+      "Pokemon": 104
+    },
+    {
+      "Checked": false,
+      "Pokemon": 87
+    },
+    {
+      "Checked": false,
+      "Pokemon": 50
+    },
+    {
+      "Checked": false,
+      "Pokemon": 85
+    },
+    {
+      "Checked": false,
+      "Pokemon": 84
+    },
+    {
+      "Checked": false,
+      "Pokemon": 148
+    },
+    {
+      "Checked": false,
+      "Pokemon": 147
+    },
+    {
+      "Checked": false,
+      "Pokemon": 96
+    },
+    {
+      "Checked": false,
+      "Pokemon": 51
+    },
+    {
+      "Checked": false,
+      "Pokemon": 133
+    },
+    {
+      "Checked": false,
+      "Pokemon": 23
+    },
+    {
+      "Checked": false,
+      "Pokemon": 125
+    },
+    {
+      "Checked": false,
+      "Pokemon": 101
+    },
+    {
+      "Checked": false,
+      "Pokemon": 102
+    },
+    {
+      "Checked": false,
+      "Pokemon": 83
+    },
+    {
+      "Checked": false,
+      "Pokemon": 22
+    },
+    {
+      "Checked": false,
+      "Pokemon": 136
+    },
+    {
+      "Checked": false,
+      "Pokemon": 92
+    },
+    {
+      "Checked": false,
+      "Pokemon": 94
+    },
+    {
+      "Checked": false,
+      "Pokemon": 74
+    },
+    {
+      "Checked": false,
+      "Pokemon": 44
+    },
+    {
+      "Checked": false,
+      "Pokemon": 42
+    },
+    {
+      "Checked": false,
+      "Pokemon": 118
+    },
+    {
+      "Checked": false,
+      "Pokemon": 55
+    },
+    {
+      "Checked": false,
+      "Pokemon": 75
+    },
+    {
+      "Checked": false,
+      "Pokemon": 88
+    },
+    {
+      "Checked": false,
+      "Pokemon": 58
+    },
+    {
+      "Checked": false,
+      "Pokemon": 93
+    },
+    {
+      "Checked": false,
+      "Pokemon": 107
+    },
+    {
+      "Checked": false,
+      "Pokemon": 106
+    },
+    {
+      "Checked": false,
+      "Pokemon": 116
+    },
+    {
+      "Checked": false,
+      "Pokemon": 97
+    },
+    {
+      "Checked": false,
+      "Pokemon": 2
+    },
+    {
+      "Checked": false,
+      "Pokemon": 39
+    },
+    {
+      "Checked": false,
+      "Pokemon": 135
+    },
+    {
+      "Checked": false,
+      "Pokemon": 124
+    },
+    {
+      "Checked": false,
+      "Pokemon": 140
+    },
+    {
+      "Checked": false,
+      "Pokemon": 141
+    },
+    {
+      "Checked": false,
+      "Pokemon": 64
+    },
+    {
+      "Checked": false,
+      "Pokemon": 14
+    },
+    {
+      "Checked": false,
+      "Pokemon": 115
+    },
+    {
+      "Checked": false,
+      "Pokemon": 99
+    },
+    {
+      "Checked": false,
+      "Pokemon": 109
+    },
+    {
+      "Checked": false,
+      "Pokemon": 98
+    },
+    {
+      "Checked": false,
+      "Pokemon": 131
+    },
+    {
+      "Checked": false,
+      "Pokemon": 67
+    },
+    {
+      "Checked": false,
+      "Pokemon": 66
+    },
+    {
+      "Checked": false,
+      "Pokemon": 129
+    },
+    {
+      "Checked": false,
+      "Pokemon": 126
+    },
+    {
+      "Checked": false,
+      "Pokemon": 81
+    },
+    {
+      "Checked": false,
+      "Pokemon": 82
+    },
+    {
+      "Checked": false,
+      "Pokemon": 56
+    },
+    {
+      "Checked": false,
+      "Pokemon": 105
+    },
+    {
+      "Checked": false,
+      "Pokemon": 52
+    },
+    {
+      "Checked": false,
+      "Pokemon": 11
+    },
+    {
+      "Checked": false,
+      "Pokemon": 0
+    },
+    {
+      "Checked": false,
+      "Pokemon": 122
+    },
+    {
+      "Checked": false,
+      "Pokemon": 29
+    },
+    {
+      "Checked": false,
+      "Pokemon": 32
+    },
+    {
+      "Checked": false,
+      "Pokemon": 30
+    },
+    {
+      "Checked": false,
+      "Pokemon": 33
+    },
+    {
+      "Checked": false,
+      "Pokemon": 38
+    },
+    {
+      "Checked": false,
+      "Pokemon": 43
+    },
+    {
+      "Checked": false,
+      "Pokemon": 138
+    },
+    {
+      "Checked": false,
+      "Pokemon": 139
+    },
+    {
+      "Checked": false,
+      "Pokemon": 95
+    },
+    {
+      "Checked": false,
+      "Pokemon": 46
+    },
+    {
+      "Checked": false,
+      "Pokemon": 47
+    },
+    {
+      "Checked": false,
+      "Pokemon": 53
+    },
+    {
+      "Checked": false,
+      "Pokemon": 18
+    },
+    {
+      "Checked": false,
+      "Pokemon": 17
+    },
+    {
+      "Checked": false,
+      "Pokemon": 25
+    },
+    {
+      "Checked": false,
+      "Pokemon": 127
+    },
+    {
+      "Checked": false,
+      "Pokemon": 60
+    },
+    {
+      "Checked": false,
+      "Pokemon": 61
+    },
+    {
+      "Checked": false,
+      "Pokemon": 77
+    },
+    {
+      "Checked": false,
+      "Pokemon": 137
+    },
+    {
+      "Checked": false,
+      "Pokemon": 57
+    },
+    {
+      "Checked": false,
+      "Pokemon": 54
+    },
+    {
+      "Checked": false,
+      "Pokemon": 26
+    },
+    {
+      "Checked": false,
+      "Pokemon": 78
+    },
+    {
+      "Checked": false,
+      "Pokemon": 20
+    },
+    {
+      "Checked": false,
+      "Pokemon": 112
+    },
+    {
+      "Checked": false,
+      "Pokemon": 111
+    },
+    {
+      "Checked": false,
+      "Pokemon": 27
+    },
+    {
+      "Checked": false,
+      "Pokemon": 28
+    },
+    {
+      "Checked": false,
+      "Pokemon": 123
+    },
+    {
+      "Checked": false,
+      "Pokemon": 117
+    },
+    {
+      "Checked": false,
+      "Pokemon": 119
+    },
+    {
+      "Checked": false,
+      "Pokemon": 86
+    },
+    {
+      "Checked": false,
+      "Pokemon": 90
+    },
+    {
+      "Checked": false,
+      "Pokemon": 79
+    },
+    {
+      "Checked": false,
+      "Pokemon": 21
+    },
+    {
+      "Checked": false,
+      "Pokemon": 7
+    },
+    {
+      "Checked": false,
+      "Pokemon": 121
+    },
+    {
+      "Checked": false,
+      "Pokemon": 120
+    },
+    {
+      "Checked": false,
+      "Pokemon": 114
+    },
+    {
+      "Checked": false,
+      "Pokemon": 128
+    },
+    {
+      "Checked": false,
+      "Pokemon": 72
+    },
+    {
+      "Checked": false,
+      "Pokemon": 73
+    },
+    {
+      "Checked": false,
+      "Pokemon": 134
+    },
+    {
+      "Checked": false,
+      "Pokemon": 49
+    },
+    {
+      "Checked": false,
+      "Pokemon": 48
+    },
+    {
+      "Checked": false,
+      "Pokemon": 100
+    },
+    {
+      "Checked": false,
+      "Pokemon": 37
+    },
+    {
+      "Checked": false,
+      "Pokemon": 8
+    },
+    {
+      "Checked": false,
+      "Pokemon": 70
+    },
+    {
+      "Checked": false,
+      "Pokemon": 110
+    },
+    {
+      "Checked": false,
+      "Pokemon": 40
+    },
+    {
+      "Checked": false,
+      "Pokemon": 41
+    }
+  ],
+  "ItemRecycleFilter": [
+    {
+      "Amount": 200,
+      "Item": 403
+    },
+    {
+      "Amount": 200,
+      "Item": 404
+    },
+    {
+      "Amount": 200,
+      "Item": 401
+    },
+    {
+      "Amount": 200,
+      "Item": 402
+    },
+    {
+      "Amount": 200,
+      "Item": 902
+    },
+    {
+      "Amount": 200,
+      "Item": 901
+    },
+    {
+      "Amount": 200,
+      "Item": 1002
+    },
+    {
+      "Amount": 200,
+      "Item": 301
+    },
+    {
+      "Amount": 200,
+      "Item": 1001
+    },
+    {
+      "Amount": 200,
+      "Item": 801
+    },
+    {
+      "Amount": 200,
+      "Item": 501
+    },
+    {
+      "Amount": 200,
+      "Item": 602
+    },
+    {
+      "Amount": 200,
+      "Item": 603
+    },
+    {
+      "Amount": 200,
+      "Item": 604
+    },
+    {
+      "Amount": 50,
+      "Item": 702
+    },
+    {
+      "Amount": 50,
+      "Item": 2
+    },
+    {
+      "Amount": 50,
+      "Item": 4
+    },
+    {
+      "Amount": 50,
+      "Item": 703
+    },
+    {
+      "Amount": 50,
+      "Item": 705
+    },
+    {
+      "Amount": 50,
+      "Item": 701
+    },
+    {
+      "Amount": 50,
+      "Item": 3
+    },
+    {
+      "Amount": 50,
+      "Item": 704
+    },
+    {
+      "Amount": 25,
+      "Item": 103
+    },
+    {
+      "Amount": 25,
+      "Item": 104
+    },
+    {
+      "Amount": 25,
+      "Item": 1
+    },
+    {
+      "Amount": 25,
+      "Item": 102
+    },
+    {
+      "Amount": 15,
+      "Item": 101
+    },
+    {
+      "Amount": 15,
+      "Item": 0
+    },
+    {
+      "Amount": 5,
+      "Item": 201
+    },
+    {
+      "Amount": 0,
+      "Item": 202
+    }
+  ],
+  "PokemonNotToCatch": null
 }
