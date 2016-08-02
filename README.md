@@ -26,16 +26,16 @@
 
 # Features
 
-[PTC Login / Google]
-[Get Map Objects and Inventory]
-[Farm pokestops]
-[Throw Berries/use best pokeball]
-[Transfers duplicate pokemons]
-[Evolve all pokemons]
-[Throws away unneeded items]
-[Humanlike Walking]
-[AutoUpdate / VersionCheck]
-[Use lucky egg while evolve]
+- PTC / Google Account support
+- Get Map Objects and Inventory
+- Farm Pokestops
+- Throw berries / Use the best Pokeball
+- Transfers duplicate Pokemon
+- Evolve all Pokemon
+- Throw away unneeded items
+- Human-like walking
+- Auto-updating / Version checking
+- Use Lucky Egg when evolving Pokemon for best EXP rate
 
 ### TBD
 
