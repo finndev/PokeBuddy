@@ -1,7 +1,7 @@
 {
   "StaticFiles": {
     "Dependencies.json": {
-      "MD5": "eb822a8b7526c10f0c5256e06f4e4c41",
+      "MD5": "2c157d4f718ab3393c0f14604207b786",
       "Download": "https://raw.github.com/finndev/PokeBuddy/master/Dependencies.json"
     },
     "Core\\PokeBuddy.Core.dll": {
@@ -67,7 +67,7 @@
   },
   "Patches": {},
   "Loader": {
-    "MD5": "d97c9f569b0e9d043faf7eabf2a1954f",
+    "MD5": "f9986c77bb44f6cc596ed91b58e732d0",
     "Download": "https://raw.github.com/finndev/PokeBuddy/master/Loader/PokeBuddy.exe"
   }
 }
