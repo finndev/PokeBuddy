@@ -24,9 +24,26 @@
 
 ## Further  Setup options
 
+# Features
+
+[PTC Login / Google]
+[Get Map Objects and Inventory]
+[Farm pokestops]
+[Throw Berries/use best pokeball]
+[Transfers duplicate pokemons]
+[Evolve all pokemons]
+[Throws away unneeded items]
+[Humanlike Walking]
+[AutoUpdate / VersionCheck]
+[Use lucky egg while evolve]
+
 ### TBD
 
 
 ## FAQ
 
 ### TBD
+
+#Legal
+
+This Project is in no way affiliated with, authorized, maintained, sponsored or endorsed by Niantic, The Pokémon Company, Nintendo or any of its affiliates or subsidiaries. This is an independent and unofficial API for educational use ONLY. Using the Project might be against the TOS
