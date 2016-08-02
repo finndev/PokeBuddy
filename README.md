@@ -36,9 +36,7 @@
 - Human-like walking
 - Auto-updating / Version checking
 - Use Lucky Egg when evolving Pokemon for best EXP rate
-
-### TBD
-
+- 
 
 ## FAQ
 
