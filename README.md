@@ -20,8 +20,6 @@
 
 ### 5. Select **Done** and **Start** for your fully automatic Pokemon GO adventure.
 
-
-
 ## Further  Setup options
 
 # Features
@@ -36,7 +34,6 @@
 - Human-like walking
 - Auto-updating / Version checking
 - Use Lucky Egg when evolving Pokemon for best EXP rate
-- 
 
 ## FAQ
 
