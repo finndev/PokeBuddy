@@ -1,0 +1,8 @@
+[P - 09:56:20] [Farm Pokestops] InCooldownPeriod -> Received XP: 0
+[P - 09:56:20] [Farm Pokestops - ERROR]: System.InvalidOperationException: Sequence contains no elements
+   at System.Linq.Enumerable.Aggregate[TSource](IEnumerable`1 source, Func`3 func)
+   at PokeBuddy.Niantic.Behaviours.FarmPokeStops.<Execute>d__13.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at PokeBuddy.Core.Routine.<>c.<<Start>b__16_3>d.MoveNext()
