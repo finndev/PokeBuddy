@@ -19,6 +19,8 @@
   "LuckyEggMinPokemon": 0,
   "RecycleItems": false,
   "IsGoogleAccount": false,
+  "UsePermanentIncubatorOnly": true,
+  "UseIncubators": true,
   "PokemonsToEvolve": [
     {
       "Checked": true,
