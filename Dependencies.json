@@ -1,7 +1,7 @@
 {
   "StaticFiles": {
     "Dependencies.json": {
-      "MD5": "45cfc0fe6a35a6267111c139c01d11a0",
+      "MD5": "3d86ab48d023bd6ba410af9944760a0c",
       "Download": "https://raw.github.com/finndev/PokeBuddy/master/Dependencies.json"
     },
     "Core\\PokeBuddy.Core.dll": {
@@ -75,11 +75,15 @@
     "Dependencies\\System.Data.HashFunction.xxHash.dll": {
       "MD5": "77619785f3b6753517d2816963e93f21",
       "Download": "https://raw.github.com/finndev/PokeBuddy/master/Dependencies/System.Data.HashFunction.xxHash.dll"
+    },
+    "Dependencies\\SharpRaven.dll": {
+      "MD5": "067e981795183f5ce430ecbf068c0295",
+      "Download": "https://raw.github.com/finndev/PokeBuddy/master/Dependencies/SharpRaven.dll"
     }
   },
   "Patches": {},
   "Loader": {
-    "MD5": "b7a80060156ad52ed58de9c9aa5bb148",
+    "MD5": "180c47b0f33c9ba14b8dc2051be74399",
     "Download": "https://raw.github.com/finndev/PokeBuddy/master/Loader/PokeBuddy.exe"
   }
 }
