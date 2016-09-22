@@ -10,7 +10,7 @@
   "EvolveEggs": false,
   "ThrowAwayBadPokemons": true,
   "TeleportMovement": false,
-  "MetersPerSecond": 40.0,
+  "MetersPerSecond": 8.0,
   "UseBerries": true,
   "BerryProbability": "0.40",
   "GoogleAccessToken": "",
